@@ -20,24 +20,20 @@ The person (he/she) is highly concerned about job opportunities in their preferr
 
 ## Debate History
 
-<div style="display: flex; margin-bottom: 20px">
-  <div style="flex: 15; background: #111111; border-radius: 10px; padding:20px;">I am Debater A, I will be arguing for: Living in Beijing</div>
-   <div style="flex: 1;"></div>
-</div>
+***Debater A :***
 
-<div style="display: flex; margin-bottom: 20px">
-  <div style="flex: 1;"></div>
-  <div style="flex: 15; background: #111111; border-radius: 10px; padding:20px; ">Argument: Beijing offers abundant job opportunities and a vibrant cultural scene.
-Explanation: Beijing, as the capital city of China, provides a wide range of job opportunities in various industries such as technology, finance, and government. The city is home to numerous international organizations and companies, offering diverse career options for professionals (source: duckduckgo_search). In addition to its thriving job market, Beijing boasts a rich cultural and historical heritage, with seven UNESCO World Heritage sites, including the Great Wall of China and the Forbidden City. This vibrant cultural scene, combined with the city's numerous leisure activities, makes Beijing an attractive place to live and work.</div>
-</div>
+>>> I am Debater A, I will be arguing for: Living in Beijing
 
-<div style="display: flex; margin-bottom: 20px">
-  <div style="flex: 15; background: #111111; border-radius: 10px; padding:20px;">Argument: Chengdu's quality of life, leisure activities, and growing job market make it a competitive alternative to Beijing.
-Explanation: While Beijing does offer a diverse job market and cultural richness, Chengdu's quality of life, leisure activities, and growing job market should not be underestimated. Chengdu has been ranked as China's happiest city for 14 years, indicating a high level of satisfaction among its residents (source: OQ). The city has also experienced significant growth in its economy, with a 40.9% increase in international trains operation and a 57.7% increase in China-Europe railway trains during the first half of the year (source: Xinhua). This growth is a testament to Chengdu's focus on high-end, intelligent, and green transformation of the manufacturing industry, promoting high-quality development.
+***Debater B :***
 
-Disposable income per capita in Chengdu has increased by 110% compared to 2012, with an average annual growth rate of 8.6% (source: OQ). This growth in income, combined with the lower cost of living, allows residents to enjoy a higher quality of life and more leisure activities. Chengdu's unique work-life balance, charm, and ability to support entrepreneurial pursuits and provide ongoing learning opportunities make it an attractive alternative to Beijing for those who value a more relaxed lifestyle and a growing job market.</div>
-   <div style="flex: 1;"></div>
-</div>
+>>> Argument: Beijing offers abundant job opportunities and a vibrant cultural scene. Explanation: Beijing, as the capital city of China, provides a wide range of job opportunities in various industries such as technology, finance, and government. The city is home to numerous international organizations and companies, offering diverse career options for professionals (source: duckduckgo_search). In addition to its thriving job market, Beijing boasts a rich cultural and historical heritage, with seven UNESCO World Heritage sites, including the Great Wall of China and the Forbidden City. This vibrant cultural scene, combined with the city's numerous leisure activities, makes Beijing an attractive place to live and work.
+
+
+***Debater A :***
+
+>>> Argument: Beijing offers abundant job opportunities and a vibrant cultural scene. Explanation: Beijing, as the capital city of China, provides a wide range of job opportunities in various industries such as technology, finance, and government. The city is home to numerous international organizations and companies, offering diverse career options for professionals (source: duckduckgo_search). In addition to its thriving job market, Beijing boasts a rich cultural and historical heritage, with seven UNESCO World Heritage sites, including the Great Wall of China and the Forbidden City. This vibrant cultural scene, combined with the city's numerous leisure activities, makes Beijing an attractive place to live and work.
+
+Argument: Beijing offers abundant job opportunities and a vibrant cultural scene. Explanation: Beijing, as the capital city of China, provides a wide range of job opportunities in various industries such as technology, finance, and government. The city is home to numerous international organizations and companies, offering diverse career options for professionals (source: duckduckgo_search). In addition to its thriving job market, Beijing boasts a rich cultural and historical heritage, with seven UNESCO World Heritage sites, including the Great Wall of China and the Forbidden City. This vibrant cultural scene, combined with the city's numerous leisure activities, makes Beijing an attractive place to live and work.
 
 
 ## Result
