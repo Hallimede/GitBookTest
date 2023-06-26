@@ -22,18 +22,18 @@ The person (he/she) is highly concerned about job opportunities in their preferr
 
 ***Debater A :***
 
->>> I am Debater A, I will be arguing for: Living in Beijing
+> I am Debater A, I will be arguing for: Living in Beijing
 
 ***Debater B :***
 
->>> Argument: Beijing offers abundant job opportunities and a vibrant cultural scene. Explanation: Beijing, as the capital city of China, provides a wide range of job opportunities in various industries such as technology, finance, and government. The city is home to numerous international organizations and companies, offering diverse career options for professionals (source: duckduckgo_search). In addition to its thriving job market, Beijing boasts a rich cultural and historical heritage, with seven UNESCO World Heritage sites, including the Great Wall of China and the Forbidden City. This vibrant cultural scene, combined with the city's numerous leisure activities, makes Beijing an attractive place to live and work.
+> Argument: Beijing offers abundant job opportunities and a vibrant cultural scene. Explanation: Beijing, as the capital city of China, provides a wide range of job opportunities in various industries such as technology, finance, and government. The city is home to numerous international organizations and companies, offering diverse career options for professionals (source: duckduckgo_search). In addition to its thriving job market, Beijing boasts a rich cultural and historical heritage, with seven UNESCO World Heritage sites, including the Great Wall of China and the Forbidden City. This vibrant cultural scene, combined with the city's numerous leisure activities, makes Beijing an attractive place to live and work.
 
 
 ***Debater A :***
 
->>> Argument: Beijing offers abundant job opportunities and a vibrant cultural scene. Explanation: Beijing, as the capital city of China, provides a wide range of job opportunities in various industries such as technology, finance, and government. The city is home to numerous international organizations and companies, offering diverse career options for professionals (source: duckduckgo_search). In addition to its thriving job market, Beijing boasts a rich cultural and historical heritage, with seven UNESCO World Heritage sites, including the Great Wall of China and the Forbidden City. This vibrant cultural scene, combined with the city's numerous leisure activities, makes Beijing an attractive place to live and work.
-
-Argument: Beijing offers abundant job opportunities and a vibrant cultural scene. Explanation: Beijing, as the capital city of China, provides a wide range of job opportunities in various industries such as technology, finance, and government. The city is home to numerous international organizations and companies, offering diverse career options for professionals (source: duckduckgo_search). In addition to its thriving job market, Beijing boasts a rich cultural and historical heritage, with seven UNESCO World Heritage sites, including the Great Wall of China and the Forbidden City. This vibrant cultural scene, combined with the city's numerous leisure activities, makes Beijing an attractive place to live and work.
+> Argument: Beijing offers abundant job opportunities and a vibrant cultural scene. Explanation: Beijing, as the capital city of China, provides a wide range of job opportunities in various industries such as technology, finance, and government. The city is home to numerous international organizations and companies, offering diverse career options for professionals (source: duckduckgo_search). In addition to its thriving job market, Beijing boasts a rich cultural and historical heritage, with seven UNESCO World Heritage sites, including the Great Wall of China and the Forbidden City. This vibrant cultural scene, combined with the city's numerous leisure activities, makes Beijing an attractive place to live and work.
+>
+>Argument: Beijing offers abundant job opportunities and a vibrant cultural scene. Explanation: Beijing, as the capital city of China, provides a wide range of job opportunities in various industries such as technology, finance, and government. The city is home to numerous international organizations and companies, offering diverse career options for professionals (source: duckduckgo_search). In addition to its thriving job market, Beijing boasts a rich cultural and historical heritage, with seven UNESCO World Heritage sites, including the Great Wall of China and the Forbidden City. This vibrant cultural scene, combined with the city's numerous leisure activities, makes Beijing an attractive place to live and work.
 
 
 ## Result
