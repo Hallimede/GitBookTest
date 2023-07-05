@@ -1,0 +1,1 @@
+This is the case bool of wada project.
